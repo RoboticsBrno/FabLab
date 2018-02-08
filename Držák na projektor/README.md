@@ -2,4 +2,4 @@
 
 Model in Autodesk Fusion 360: http://a360.co/2GZZe0x
 
-![Photo of model in Fusion](docs/Fusion export.png)
+![Photo of model in Fusion](docs/Fusion_export.png)
